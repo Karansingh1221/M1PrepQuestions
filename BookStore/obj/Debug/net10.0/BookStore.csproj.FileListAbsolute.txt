@@ -1,0 +1,14 @@
+C:\Users\Karan\Desktop\M1 Questions\BookStore\obj\Debug\net10.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\M1 Questions\BookStore\obj\Debug\net10.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\M1 Questions\BookStore\obj\Debug\net10.0\BookStore.AssemblyInfo.cs
+C:\Users\Karan\Desktop\M1 Questions\BookStore\obj\Debug\net10.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\M1 Questions\BookStore\bin\Debug\net10.0\BookStore.exe
+C:\Users\Karan\Desktop\M1 Questions\BookStore\bin\Debug\net10.0\BookStore.deps.json
+C:\Users\Karan\Desktop\M1 Questions\BookStore\bin\Debug\net10.0\BookStore.runtimeconfig.json
+C:\Users\Karan\Desktop\M1 Questions\BookStore\bin\Debug\net10.0\BookStore.dll
+C:\Users\Karan\Desktop\M1 Questions\BookStore\bin\Debug\net10.0\BookStore.pdb
+C:\Users\Karan\Desktop\M1 Questions\BookStore\obj\Debug\net10.0\BookStore.dll
+C:\Users\Karan\Desktop\M1 Questions\BookStore\obj\Debug\net10.0\refint\BookStore.dll
+C:\Users\Karan\Desktop\M1 Questions\BookStore\obj\Debug\net10.0\BookStore.pdb
+C:\Users\Karan\Desktop\M1 Questions\BookStore\obj\Debug\net10.0\BookStore.genruntimeconfig.cache
+C:\Users\Karan\Desktop\M1 Questions\BookStore\obj\Debug\net10.0\ref\BookStore.dll
