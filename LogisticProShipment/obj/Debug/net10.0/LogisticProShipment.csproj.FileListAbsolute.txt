@@ -1,0 +1,14 @@
+C:\Users\Karan\Desktop\M1 Questions\LogisticProShipment\obj\Debug\net10.0\LogisticProShipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\M1 Questions\LogisticProShipment\obj\Debug\net10.0\LogisticProShipment.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\M1 Questions\LogisticProShipment\obj\Debug\net10.0\LogisticProShipment.AssemblyInfo.cs
+C:\Users\Karan\Desktop\M1 Questions\LogisticProShipment\obj\Debug\net10.0\LogisticProShipment.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\M1 Questions\LogisticProShipment\bin\Debug\net10.0\LogisticProShipment.exe
+C:\Users\Karan\Desktop\M1 Questions\LogisticProShipment\bin\Debug\net10.0\LogisticProShipment.deps.json
+C:\Users\Karan\Desktop\M1 Questions\LogisticProShipment\bin\Debug\net10.0\LogisticProShipment.runtimeconfig.json
+C:\Users\Karan\Desktop\M1 Questions\LogisticProShipment\bin\Debug\net10.0\LogisticProShipment.dll
+C:\Users\Karan\Desktop\M1 Questions\LogisticProShipment\bin\Debug\net10.0\LogisticProShipment.pdb
+C:\Users\Karan\Desktop\M1 Questions\LogisticProShipment\obj\Debug\net10.0\LogisticProShipment.dll
+C:\Users\Karan\Desktop\M1 Questions\LogisticProShipment\obj\Debug\net10.0\refint\LogisticProShipment.dll
+C:\Users\Karan\Desktop\M1 Questions\LogisticProShipment\obj\Debug\net10.0\LogisticProShipment.pdb
+C:\Users\Karan\Desktop\M1 Questions\LogisticProShipment\obj\Debug\net10.0\LogisticProShipment.genruntimeconfig.cache
+C:\Users\Karan\Desktop\M1 Questions\LogisticProShipment\obj\Debug\net10.0\ref\LogisticProShipment.dll

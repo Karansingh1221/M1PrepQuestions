@@ -1,0 +1,14 @@
+C:\Users\Karan\Desktop\M1 Questions\questOnCollectionsGenerics\obj\Debug\net10.0\questOnCollectionsGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karan\Desktop\M1 Questions\questOnCollectionsGenerics\obj\Debug\net10.0\questOnCollectionsGenerics.AssemblyInfoInputs.cache
+C:\Users\Karan\Desktop\M1 Questions\questOnCollectionsGenerics\obj\Debug\net10.0\questOnCollectionsGenerics.AssemblyInfo.cs
+C:\Users\Karan\Desktop\M1 Questions\questOnCollectionsGenerics\obj\Debug\net10.0\questOnCollectionsGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Karan\Desktop\M1 Questions\questOnCollectionsGenerics\bin\Debug\net10.0\questOnCollectionsGenerics.exe
+C:\Users\Karan\Desktop\M1 Questions\questOnCollectionsGenerics\bin\Debug\net10.0\questOnCollectionsGenerics.deps.json
+C:\Users\Karan\Desktop\M1 Questions\questOnCollectionsGenerics\bin\Debug\net10.0\questOnCollectionsGenerics.runtimeconfig.json
+C:\Users\Karan\Desktop\M1 Questions\questOnCollectionsGenerics\bin\Debug\net10.0\questOnCollectionsGenerics.dll
+C:\Users\Karan\Desktop\M1 Questions\questOnCollectionsGenerics\bin\Debug\net10.0\questOnCollectionsGenerics.pdb
+C:\Users\Karan\Desktop\M1 Questions\questOnCollectionsGenerics\obj\Debug\net10.0\questOnCollectionsGenerics.dll
+C:\Users\Karan\Desktop\M1 Questions\questOnCollectionsGenerics\obj\Debug\net10.0\refint\questOnCollectionsGenerics.dll
+C:\Users\Karan\Desktop\M1 Questions\questOnCollectionsGenerics\obj\Debug\net10.0\questOnCollectionsGenerics.pdb
+C:\Users\Karan\Desktop\M1 Questions\questOnCollectionsGenerics\obj\Debug\net10.0\questOnCollectionsGenerics.genruntimeconfig.cache
+C:\Users\Karan\Desktop\M1 Questions\questOnCollectionsGenerics\obj\Debug\net10.0\ref\questOnCollectionsGenerics.dll
